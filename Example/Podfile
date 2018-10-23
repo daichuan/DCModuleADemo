@@ -1,3 +1,6 @@
+
+source'https://github.com/daichuan/DCModuleADemo'
+source'https://github.com/Cocapods/Specs.git'
 use_frameworks!
 target 'DCModuleADemo_Tests' do
   pod 'DCModuleADemo', :path => '../'
