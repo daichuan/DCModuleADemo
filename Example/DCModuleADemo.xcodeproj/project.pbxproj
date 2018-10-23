@@ -27,10 +27,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		8BD82C7777FC5E7B3EA64175 /* Pods-DCModuleADemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCModuleADemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DCModuleADemo_Tests/Pods-DCModuleADemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		BF944DA7172E89546FB7C3BC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		D583AD7543CB19582AD01825 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BF944DA7172E89546FB7C3BC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D583AD7543CB19582AD01825 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F3051434D01633D7225E2FA8 /* Pods_DCModuleADemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DCModuleADemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FABA0E2B10D35E69C38D87BD /* DCModuleADemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DCModuleADemo.podspec; path = ../DCModuleADemo.podspec; sourceTree = "<group>"; };
+		FABA0E2B10D35E69C38D87BD /* DCModuleADemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DCModuleADemo.podspec; path = ../DCModuleADemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

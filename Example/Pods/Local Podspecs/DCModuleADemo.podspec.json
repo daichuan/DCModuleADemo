@@ -1,0 +1,22 @@
+{
+  "name": "DCModuleADemo",
+  "version": "0.1.0",
+  "summary": "A short description of DCModuleADemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/戴川/DCModuleADemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "戴川": "1041936247@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/戴川/DCModuleADemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DCModuleADemo/Classes/**/*"
+}

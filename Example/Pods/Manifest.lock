@@ -1,0 +1,16 @@
+PODS:
+  - DCModuleADemo (0.1.0)
+
+DEPENDENCIES:
+  - DCModuleADemo (from `../`)
+
+EXTERNAL SOURCES:
+  DCModuleADemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCModuleADemo: f06c289b751219b5b3f8c46eca80339d4c4ec14b
+
+PODFILE CHECKSUM: ffe2938cd355000d835c91d1b2be6de5b286bbf3
+
+COCOAPODS: 1.5.3

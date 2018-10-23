@@ -1,0 +1,6 @@
+framework module DCModuleADemo {
+  umbrella header "DCModuleADemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
