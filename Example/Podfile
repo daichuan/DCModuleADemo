@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DCModuleADemo_Tests' do
+  pod 'DCModuleADemo', :path => '../'
+  
+  
+end
